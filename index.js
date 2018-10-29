@@ -22,7 +22,7 @@ window.onload = (() => {
         // lis[i].style.transform = 'translateY(-100px)'
         // lis[i].classList.add('is-active');
 
-
+        console.log('BlaBlaBla');
 
         setTimeout(() => {
         tableau.prepend(lis[i]);
